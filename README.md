@@ -17,4 +17,4 @@ node proxy.js
 local-server
 ```
 
-image::https://raw.githubusercontent.com/stevenvillasano/n2yo_tracker/main/app.png[Starlink Tracker Screenshot]
+![Starlink Tracker Screenshot](https://github.com/hectorsvill/Live-Satellite-Tracker/blob/main/app.png)
